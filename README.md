@@ -17,18 +17,21 @@ An AI-powered marine oil spill detection application using deep learning segment
 
 ---
 
+## 🎬 Demo Video
+
+https://github.com/user-attachments/assets/YOUR_VIDEO_ID
+
+> *Upload your screen recording to GitHub: Drag and drop the video file into any GitHub issue or PR comment, then copy the generated URL here*
+
+---
+
 ## 📸 Screenshots
 
 ### Main Interface
 ![Main Interface](screenshots/main_interface.png)
 
-### Detection Results
-![Detection Results](screenshots/detection_results.png)
-
 ### Segmentation Output
 ![Segmentation Output](screenshots/segmentation_output.png)
-
-> *Add your screenshots to a `screenshots/` folder in the repository*
 
 ---
 
