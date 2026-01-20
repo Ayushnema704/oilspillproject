@@ -11,19 +11,12 @@ An AI-powered marine oil spill detection application using deep learning segment
 
 ## 🌐 Live Demo
 
-🔗 **Deployment Link:** [AquaScan Intelligence on Streamlit Cloud](https://your-app-name.streamlit.app)
+🔗 **Deployment Link:** [AquaScan Intelligence on Streamlit Cloud](https://aquascanintelligence.streamlit.app/)
 
-> *Replace with your actual Streamlit Cloud URL after deployment*
-
----
 
 ## 🎬 Demo Video
 
-https://github.com/user-attachments/assets/YOUR_VIDEO_ID
-
-> *Upload your screen recording to GitHub: Drag and drop the video file into any GitHub issue or PR comment, then copy the generated URL here*
-
----
+https://github.com/user-attachments/assets/32a68d21-97ec-477c-8c49-a22e391e42f6
 
 ## 📸 Screenshots
 
@@ -195,6 +188,8 @@ requests>=2.28.0
 ```
 
 ---
+## Developed By [Ayush Nema](https://www.linkedin.com/in/ayush-nema-jec/)
+
 
 ## 🤝 Contributing
 
