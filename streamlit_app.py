@@ -212,6 +212,7 @@ st.markdown("</div></div>", unsafe_allow_html=True)
 st.markdown("""
 <div style="text-align:center; padding:60px 20px; color:rgba(255,255,255,0.6)">
     <p><strong>AquaScan Intelligence</strong> — Protecting Oceans with AI</p>
+    <p class="author"><a href="https://www.linkedin.com/in/ayush-nema-jec/" target="_blank" style="color: blue; text-decoration: underline;">Built with precision by Ayush Nema</a></p>    
     <p>Built with Streamlit • PyTorch • U-Net</p>
 </div>
 """, unsafe_allow_html=True)
