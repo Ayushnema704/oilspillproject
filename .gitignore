@@ -42,6 +42,7 @@ temp_uploads/
 # But keep these image folders/files tracked
 !assets/*.png
 !outputs/*.png
+!screenshots/*.png
 
 # -------------------------------
 # 🧰 IDE & Editor Configs
